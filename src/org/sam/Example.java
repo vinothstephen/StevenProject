@@ -6,5 +6,11 @@ public static void main(String[] args) {
 	int b=20;
 	int c=a+b;
 	System.out.println("Method Created");
+	System.out.println("Method Created");
+	System.out.println("Method Created");
+	System.out.println("Method Created");
+	System.out.println("Method Created");
+	System.out.println("Method Created");
+	
 }
 }
