@@ -6,7 +6,10 @@ public class Example {
 public static void main(String[] args) {
 	int a=10;
 	System.out.println(""+a);
-
-	System.out.println("Method Created");
+    byte d=100;
+    System.out.println(d);
+	
+	String s= "stevenvinpred";
+	System.out.println(""+s);
 }
 }
